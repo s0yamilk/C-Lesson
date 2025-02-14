@@ -1,0 +1,15 @@
+F:\C#Lesson\bin\Debug\net8.0\C#Lesson.exe
+F:\C#Lesson\bin\Debug\net8.0\C#Lesson.deps.json
+F:\C#Lesson\bin\Debug\net8.0\C#Lesson.runtimeconfig.json
+F:\C#Lesson\bin\Debug\net8.0\C#Lesson.dll
+F:\C#Lesson\bin\Debug\net8.0\C#Lesson.pdb
+F:\C#Lesson\obj\Debug\net8.0\C#Lesson.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#Lesson\obj\Debug\net8.0\C#Lesson.AssemblyInfoInputs.cache
+F:\C#Lesson\obj\Debug\net8.0\C#Lesson.AssemblyInfo.cs
+F:\C#Lesson\obj\Debug\net8.0\C#Lesson.csproj.CoreCompileInputs.cache
+F:\C#Lesson\obj\Debug\net8.0\C#Lesson.sourcelink.json
+F:\C#Lesson\obj\Debug\net8.0\C#Lesson.dll
+F:\C#Lesson\obj\Debug\net8.0\refint\C#Lesson.dll
+F:\C#Lesson\obj\Debug\net8.0\C#Lesson.pdb
+F:\C#Lesson\obj\Debug\net8.0\C#Lesson.genruntimeconfig.cache
+F:\C#Lesson\obj\Debug\net8.0\ref\C#Lesson.dll
