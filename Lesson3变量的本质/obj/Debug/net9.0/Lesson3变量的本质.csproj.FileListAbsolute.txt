@@ -1,0 +1,15 @@
+D:\C#Lesson\Lesson3变量的本质\bin\Debug\net9.0\Lesson3变量的本质.exe
+D:\C#Lesson\Lesson3变量的本质\bin\Debug\net9.0\Lesson3变量的本质.deps.json
+D:\C#Lesson\Lesson3变量的本质\bin\Debug\net9.0\Lesson3变量的本质.runtimeconfig.json
+D:\C#Lesson\Lesson3变量的本质\bin\Debug\net9.0\Lesson3变量的本质.dll
+D:\C#Lesson\Lesson3变量的本质\bin\Debug\net9.0\Lesson3变量的本质.pdb
+D:\C#Lesson\Lesson3变量的本质\obj\Debug\net9.0\Lesson3变量的本质.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Lesson\Lesson3变量的本质\obj\Debug\net9.0\Lesson3变量的本质.AssemblyInfoInputs.cache
+D:\C#Lesson\Lesson3变量的本质\obj\Debug\net9.0\Lesson3变量的本质.AssemblyInfo.cs
+D:\C#Lesson\Lesson3变量的本质\obj\Debug\net9.0\Lesson3变量的本质.csproj.CoreCompileInputs.cache
+D:\C#Lesson\Lesson3变量的本质\obj\Debug\net9.0\Lesson3变量的本质.sourcelink.json
+D:\C#Lesson\Lesson3变量的本质\obj\Debug\net9.0\Lesson3变量的本质.dll
+D:\C#Lesson\Lesson3变量的本质\obj\Debug\net9.0\refint\Lesson3变量的本质.dll
+D:\C#Lesson\Lesson3变量的本质\obj\Debug\net9.0\Lesson3变量的本质.pdb
+D:\C#Lesson\Lesson3变量的本质\obj\Debug\net9.0\Lesson3变量的本质.genruntimeconfig.cache
+D:\C#Lesson\Lesson3变量的本质\obj\Debug\net9.0\ref\Lesson3变量的本质.dll

@@ -12,3 +12,4 @@ D:\C#Lesson\Lesson1\obj\Debug\net9.0\refint\Lesson1认识.dll
 D:\C#Lesson\Lesson1\obj\Debug\net9.0\Lesson1认识.pdb
 D:\C#Lesson\Lesson1\obj\Debug\net9.0\Lesson1认识.genruntimeconfig.cache
 D:\C#Lesson\Lesson1\obj\Debug\net9.0\ref\Lesson1认识.dll
+D:\C#Lesson\Lesson1\obj\Debug\net9.0\Lesson1认识.sourcelink.json

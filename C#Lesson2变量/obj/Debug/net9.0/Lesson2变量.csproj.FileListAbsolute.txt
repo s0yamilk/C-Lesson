@@ -12,3 +12,4 @@ D:\C#Lesson\C#Lesson2变量\obj\Debug\net9.0\refint\Lesson2变量.dll
 D:\C#Lesson\C#Lesson2变量\obj\Debug\net9.0\Lesson2变量.pdb
 D:\C#Lesson\C#Lesson2变量\obj\Debug\net9.0\Lesson2变量.genruntimeconfig.cache
 D:\C#Lesson\C#Lesson2变量\obj\Debug\net9.0\ref\Lesson2变量.dll
+D:\C#Lesson\C#Lesson2变量\obj\Debug\net9.0\Lesson2变量.sourcelink.json
