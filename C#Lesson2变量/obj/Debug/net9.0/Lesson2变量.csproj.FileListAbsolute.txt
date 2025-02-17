@@ -1,0 +1,14 @@
+D:\C#Lesson\C#Lesson2变量\obj\Debug\net9.0\Lesson2变量.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Lesson\C#Lesson2变量\obj\Debug\net9.0\Lesson2变量.AssemblyInfoInputs.cache
+D:\C#Lesson\C#Lesson2变量\obj\Debug\net9.0\Lesson2变量.AssemblyInfo.cs
+D:\C#Lesson\C#Lesson2变量\obj\Debug\net9.0\Lesson2变量.csproj.CoreCompileInputs.cache
+D:\C#Lesson\C#Lesson2变量\bin\Debug\net9.0\Lesson2变量.exe
+D:\C#Lesson\C#Lesson2变量\bin\Debug\net9.0\Lesson2变量.deps.json
+D:\C#Lesson\C#Lesson2变量\bin\Debug\net9.0\Lesson2变量.runtimeconfig.json
+D:\C#Lesson\C#Lesson2变量\bin\Debug\net9.0\Lesson2变量.dll
+D:\C#Lesson\C#Lesson2变量\bin\Debug\net9.0\Lesson2变量.pdb
+D:\C#Lesson\C#Lesson2变量\obj\Debug\net9.0\Lesson2变量.dll
+D:\C#Lesson\C#Lesson2变量\obj\Debug\net9.0\refint\Lesson2变量.dll
+D:\C#Lesson\C#Lesson2变量\obj\Debug\net9.0\Lesson2变量.pdb
+D:\C#Lesson\C#Lesson2变量\obj\Debug\net9.0\Lesson2变量.genruntimeconfig.cache
+D:\C#Lesson\C#Lesson2变量\obj\Debug\net9.0\ref\Lesson2变量.dll

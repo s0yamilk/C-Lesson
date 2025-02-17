@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#Lesson\\C#Lesson.csproj",
-      "projectName": "C#Lesson",
-      "projectPath": "D:\\C#Lesson\\C#Lesson.csproj",
+      "projectUniqueName": "D:\\C#Lesson\\C#Lesson2变量\\Lesson2变量.csproj",
+      "projectName": "Lesson2变量",
+      "projectPath": "D:\\C#Lesson\\C#Lesson2变量\\Lesson2变量.csproj",
       "packagesPath": "C:\\Users\\sag\\.nuget\\packages\\",
-      "outputPath": "D:\\C#Lesson\\obj\\",
+      "outputPath": "D:\\C#Lesson\\C#Lesson2变量\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

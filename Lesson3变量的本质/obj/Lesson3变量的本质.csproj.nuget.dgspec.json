@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#Lesson\\C#Lesson.csproj": {}
+    "D:\\C#Lesson\\Lesson3变量的本质\\Lesson3变量的本质.csproj": {}
   },
   "projects": {
-    "D:\\C#Lesson\\C#Lesson.csproj": {
+    "D:\\C#Lesson\\Lesson3变量的本质\\Lesson3变量的本质.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#Lesson\\C#Lesson.csproj",
-        "projectName": "C#Lesson",
-        "projectPath": "D:\\C#Lesson\\C#Lesson.csproj",
+        "projectUniqueName": "D:\\C#Lesson\\Lesson3变量的本质\\Lesson3变量的本质.csproj",
+        "projectName": "Lesson3变量的本质",
+        "projectPath": "D:\\C#Lesson\\Lesson3变量的本质\\Lesson3变量的本质.csproj",
         "packagesPath": "C:\\Users\\sag\\.nuget\\packages\\",
-        "outputPath": "D:\\C#Lesson\\obj\\",
+        "outputPath": "D:\\C#Lesson\\Lesson3变量的本质\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

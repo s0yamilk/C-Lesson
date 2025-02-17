@@ -1,0 +1,14 @@
+D:\C#Lesson\Lesson1\bin\Debug\net9.0\Lesson1认识.exe
+D:\C#Lesson\Lesson1\bin\Debug\net9.0\Lesson1认识.deps.json
+D:\C#Lesson\Lesson1\bin\Debug\net9.0\Lesson1认识.runtimeconfig.json
+D:\C#Lesson\Lesson1\bin\Debug\net9.0\Lesson1认识.dll
+D:\C#Lesson\Lesson1\bin\Debug\net9.0\Lesson1认识.pdb
+D:\C#Lesson\Lesson1\obj\Debug\net9.0\Lesson1认识.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Lesson\Lesson1\obj\Debug\net9.0\Lesson1认识.AssemblyInfoInputs.cache
+D:\C#Lesson\Lesson1\obj\Debug\net9.0\Lesson1认识.AssemblyInfo.cs
+D:\C#Lesson\Lesson1\obj\Debug\net9.0\Lesson1认识.csproj.CoreCompileInputs.cache
+D:\C#Lesson\Lesson1\obj\Debug\net9.0\Lesson1认识.dll
+D:\C#Lesson\Lesson1\obj\Debug\net9.0\refint\Lesson1认识.dll
+D:\C#Lesson\Lesson1\obj\Debug\net9.0\Lesson1认识.pdb
+D:\C#Lesson\Lesson1\obj\Debug\net9.0\Lesson1认识.genruntimeconfig.cache
+D:\C#Lesson\Lesson1\obj\Debug\net9.0\ref\Lesson1认识.dll
